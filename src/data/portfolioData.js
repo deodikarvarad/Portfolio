@@ -47,7 +47,7 @@ export const projects = [
     description:
       'Admin and provider dashboard experiences for appointment scheduling, doctor onboarding, profile management, and role-aware workflows.',
     tech: ['React.js', 'Redux Toolkit', 'Responsive UI', 'REST APIs'],
-    image: 'Healthcare dashboard preview',
+    image: 'Healthcare Dashboard',
     icon: LayoutDashboard,
   },
   {
@@ -56,7 +56,7 @@ export const projects = [
     description:
       'Developed a modern fantasy sports web application with reusable React components, responsive interactive UI, cross-browser compatibility, and performance-focused layouts for mobile, tablet, and desktop devices.',
     tech: ['React.js', 'JavaScript', 'Tailwind CSS', 'HTML5', 'CSS3'],
-    image: 'Fantasy sports platform preview',
+    image: 'Fantasy Sports Platform',
     icon: Trophy,
   },
   {
@@ -65,7 +65,7 @@ export const projects = [
     description:
       'Official responsive website focused on mobile-first layouts, SEO optimization, accessibility improvements, and fast content discovery.',
     tech: ['React.js', 'Tailwind CSS', 'SEO', 'Accessibility'],
-    image: 'Government website preview',
+    image: 'Government Website',
     icon: ShieldCheck,
   },
 ];
