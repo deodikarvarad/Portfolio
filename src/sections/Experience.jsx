@@ -10,7 +10,7 @@ export default function Experience() {
       <SectionHeading
         eyebrow="Experience"
         title="Production frontend work in healthcare technology."
-        description="Current role focused on React and Next.js interfaces, component systems, admin dashboards, and API-driven frontend workflows."
+        description="Current role focused on React.js interfaces, component systems, admin dashboards, and API-driven frontend workflows."
       />
       <div className="mt-10">
         <AnimatedCard className="relative overflow-hidden p-0">
