@@ -19,7 +19,7 @@ export default function PortfolioPage() {
     updateDocumentMeta({
       title: 'Varad Deodikar | Frontend React Developer',
       description:
-        'Frontend React Developer portfolio for Varad Deodikar, focused on React.js, Next.js, Redux Toolkit, Tailwind CSS, responsive UI, and performance optimization.',
+        'Frontend React Developer portfolio for Varad Deodikar, focused on React.js, Redux Toolkit, Tailwind CSS, responsive UI, and performance optimization.',
     });
   }, []);
 

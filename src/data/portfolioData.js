@@ -30,7 +30,7 @@ export const tools = ['Git', 'Jira', 'Bitbucket', 'Postman', 'VS Code'];
 export const aiTools = ['Cursor', 'Claude', 'Codex', 'ChatGPT'];
 
 export const experienceHighlights = [
-  'Developed production healthcare applications using React.js and Next.js.',
+  'Developed production healthcare applications using React.js',
   'Built reusable component architecture for faster delivery and consistent UI quality.',
   'Improved application performance by 25-35% through optimization and UI tuning.',
   'Integrated 15+ REST APIs across admin and provider-facing workflows.',
