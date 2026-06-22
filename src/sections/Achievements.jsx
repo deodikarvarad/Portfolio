@@ -10,7 +10,7 @@ export default function Achievements() {
         eyebrow="Achievements"
         title="Measured improvements from frontend engineering."
         description="A concise view of outcomes that matter to product teams: speed, consistency, integration quality, and scalable UI delivery."
-        align="center"
+        align="left"
       />
       <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
         {achievements.map((achievement, index) => {
