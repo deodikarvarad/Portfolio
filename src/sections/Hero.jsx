@@ -4,7 +4,7 @@ import Button from '../components/Button.jsx';
 import Container from '../components/Container.jsx';
 import { siteConfig } from '../constants/site.js';
 import { stats } from '../data/portfolioData.js';
-import profileImage from '../assets/varad-profile.png';
+import profileImage from '../assets/varad-profile.jpeg';
 
 const socials = [
   { label: 'LinkedIn', href: siteConfig.linkedin, icon: Linkedin },
